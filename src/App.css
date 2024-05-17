@@ -17,10 +17,10 @@ h1 {
 }
 
 h3 { 
-  color: slategray;
+  color: rgb(236, 24, 24);
 }
 
 body  {
   padding: 30px;
-  background-color: rgb(163, 210, 216);
+  background-color: slategray;
 }
